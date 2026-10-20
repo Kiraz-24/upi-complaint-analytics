@@ -1,0 +1,57 @@
+app,theme,reviews_mentioning,prevalence_%,stars_effect,p_value,current_avg,gain_if_fixed,gain_if_halved
+BHIM,"Registration, OTP & SIM verification",1929,19.45,-0.986,0.0,2.675,0.182,0.091
+BHIM,Security / device-integrity blocks,70,0.71,-0.541,0.002,2.675,0.004,0.002
+BHIM,Login & account blocked,793,8.0,-0.509,0.0,2.675,0.038,0.019
+BHIM,App not opening / crashes / updates,1532,15.45,-0.549,0.0,2.675,0.079,0.039
+BHIM,Slow performance,1128,11.38,-0.42,0.0,2.675,0.044,0.022
+BHIM,Failed / pending payments,617,6.22,-0.597,0.0,2.675,0.034,0.017
+BHIM,Customer support,462,4.66,-0.139,0.0595,2.675,0.0,0.0
+BHIM,Cashback & rewards,718,7.24,-0.257,0.0002,2.675,0.014,0.007
+BHIM,Fees & charges,30,0.3,0.848,0.0186,2.675,0.0,0.0
+BHIM,UPI Lite & UPI PIN,179,1.81,-0.002,0.9834,2.675,0.0,0.0
+BHIM,AutoPay / mandates,23,0.23,-0.508,0.0943,2.675,0.0,0.0
+BHIM,QR scanning & location,407,4.1,0.073,0.348,2.675,0.0,0.0
+BHIM,Payment receipt / screenshot,709,7.15,-0.081,0.171,2.675,0.0,0.0
+BHIM,"Ads, notifications & add-ons",198,2.0,-0.076,0.5237,2.675,0.0,0.0
+Google Pay,"Registration, OTP & SIM verification",133,0.74,-0.476,0.0021,3.989,0.003,0.001
+Google Pay,Security / device-integrity blocks,30,0.17,-0.633,0.067,3.989,0.0,0.0
+Google Pay,Login & account blocked,89,0.5,-0.818,0.0,3.989,0.003,0.002
+Google Pay,App not opening / crashes / updates,800,4.45,-1.462,0.0,3.989,0.057,0.028
+Google Pay,Slow performance,158,0.88,-0.696,0.0,3.989,0.005,0.002
+Google Pay,Failed / pending payments,456,2.54,-0.847,0.0,3.989,0.02,0.01
+Google Pay,Customer support,337,1.87,-0.585,0.0,3.989,0.01,0.005
+Google Pay,Cashback & rewards,561,3.12,-0.963,0.0,3.989,0.026,0.013
+Google Pay,Fees & charges,77,0.43,-0.583,0.0044,3.989,0.002,0.001
+Google Pay,UPI Lite & UPI PIN,155,0.86,-0.036,0.8116,3.989,0.0,0.0
+Google Pay,AutoPay / mandates,143,0.8,-1.221,0.0,3.989,0.009,0.005
+Google Pay,QR scanning & location,206,1.15,-0.235,0.0736,3.989,0.0,0.0
+Google Pay,Payment receipt / screenshot,51,0.28,-0.518,0.0035,3.989,0.001,0.001
+Google Pay,"Ads, notifications & add-ons",227,1.26,-0.462,0.0001,3.989,0.005,0.002
+Paytm,"Registration, OTP & SIM verification",112,0.41,-0.391,0.0364,4.452,0.001,0.001
+Paytm,Security / device-integrity blocks,390,1.43,-1.106,0.0,4.452,0.014,0.007
+Paytm,Login & account blocked,238,0.87,-1.211,0.0,4.452,0.009,0.004
+Paytm,App not opening / crashes / updates,683,2.5,-1.381,0.0,4.452,0.028,0.014
+Paytm,Slow performance,121,0.44,-0.712,0.0001,4.452,0.002,0.001
+Paytm,Failed / pending payments,268,0.98,-0.997,0.0,4.452,0.008,0.004
+Paytm,Customer support,460,1.68,-0.972,0.0,4.452,0.015,0.007
+Paytm,Cashback & rewards,619,2.26,-0.783,0.0,4.452,0.011,0.005
+Paytm,Fees & charges,126,0.46,-0.373,0.0108,4.452,0.001,0.0
+Paytm,UPI Lite & UPI PIN,53,0.19,-0.754,0.0005,4.452,0.001,0.001
+Paytm,AutoPay / mandates,21,0.08,-0.736,0.0986,4.452,0.0,0.0
+Paytm,QR scanning & location,75,0.27,-0.503,0.0165,4.452,0.001,0.001
+Paytm,Payment receipt / screenshot,23,0.08,0.197,0.5404,4.452,0.0,0.0
+Paytm,"Ads, notifications & add-ons",249,0.91,-0.817,0.0,4.452,0.006,0.003
+PhonePe,"Registration, OTP & SIM verification",97,0.32,-0.749,0.0,4.385,0.002,0.001
+PhonePe,Security / device-integrity blocks,21,0.07,-0.954,0.0008,4.385,0.001,0.0
+PhonePe,Login & account blocked,65,0.22,-0.985,0.0,4.385,0.002,0.001
+PhonePe,App not opening / crashes / updates,384,1.28,-1.581,0.0,4.385,0.017,0.008
+PhonePe,Slow performance,175,0.58,-0.851,0.0,4.385,0.004,0.002
+PhonePe,Failed / pending payments,290,0.97,-0.769,0.0,4.385,0.006,0.003
+PhonePe,Customer support,369,1.23,-1.211,0.0,4.385,0.013,0.007
+PhonePe,Cashback & rewards,245,0.82,-0.86,0.0,4.385,0.005,0.003
+PhonePe,Fees & charges,212,0.71,-1.507,0.0,4.385,0.009,0.004
+PhonePe,UPI Lite & UPI PIN,89,0.3,-0.5,0.0059,4.385,0.001,0.001
+PhonePe,AutoPay / mandates,76,0.25,-1.427,0.0,4.385,0.003,0.002
+PhonePe,QR scanning & location,93,0.31,-0.352,0.0762,4.385,0.0,0.0
+PhonePe,Payment receipt / screenshot,15,0.05,0.125,0.7899,4.385,0.0,0.0
+PhonePe,"Ads, notifications & add-ons",241,0.81,-1.219,0.0,4.385,0.008,0.004
