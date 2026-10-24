@@ -1,11 +1,13 @@
+# Analysis notebooks (Google Colab). The dashboard has its own dashboard/requirements.txt.
 pandas
 numpy
 pyarrow
-matplotlib
-plotly
-scikit-learn
 scipy
 statsmodels
+scikit-learn
+matplotlib
+plotly
+wordcloud
 nltk
 spacy
 emoji

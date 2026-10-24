@@ -1,7 +1,11 @@
-data/
+# raw and processed data are not published
+data/raw/
+data/processed/
 *.npy
 *.npz
 *.joblib
 raw_reviews*.csv
+# Python and Jupyter
 __pycache__/
 .ipynb_checkpoints/
+.DS_Store
