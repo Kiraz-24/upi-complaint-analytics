@@ -1,0 +1,4 @@
+group,reviews,avg_rating,pct_1_star,pct_crash_mention,pct_security_mention
+earlier versions,14264,4.5,9.2,1.9,1.5
+10.84.5,2486,4.11,17.6,9.4,2.9
+later versions,6983,4.63,6.7,1.1,0.5
