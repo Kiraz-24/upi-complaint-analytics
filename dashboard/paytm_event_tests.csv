@@ -1,0 +1,9 @@
+comparison,measure,test,p_value
+earlier vs 10.84.5,Star ratings,Mann-Whitney U,9.5e-43
+earlier vs 10.84.5,Share of 1-star reviews,Chi-square,4.9e-36
+earlier vs 10.84.5,Share mentioning crashes,Chi-square,1.2e-90
+earlier vs 10.84.5,Share mentioning security blocks,Chi-square,7.8e-07
+10.84.5 vs later,Star ratings,Mann-Whitney U,6.4e-72
+10.84.5 vs later,Share of 1-star reviews,Chi-square,2.0e-56
+10.84.5 vs later,Share mentioning crashes,Chi-square,8.1e-90
+10.84.5 vs later,Share mentioning security blocks,Chi-square,1.1e-22

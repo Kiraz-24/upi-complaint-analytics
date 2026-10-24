@@ -1,0 +1,9 @@
+test,where,question,result
+"OLS regression, HC3 robust errors",Cell M2,"How many stars does a review lose when it mentions each problem (all apps, controlling for app and review length)?","12 of 14 themes significant; largest: AutoPay -1.22 stars. Not significant: QR scanning & location, Payment receipt / screenshot"
+"OLS regression per app, HC3",Cell M3,"Which problems cost each app the most stars, and what would fixing them gain?","BHIM registration/OTP/SIM: -0.99 stars, potential gain +0.18 stars (largest)"
+Mann-Whitney U,Cell V1,Were Paytm 10.84.5 ratings different from earlier and later versions?,earlier vs 10.84.5 p = 9.5e-43; 10.84.5 vs later p = 6.4e-72
+Chi-square,Cell V1,"Did the share of 1-star reviews, crash and security mentions change with Paytm 10.84.5?",1-star 9.2% -> 17.6% -> 6.7%; all p < 8e-07
+Mann-Whitney U + Bonferroni,Cell V2,Which of 38 versions (300+ reviews) were rated differently from the rest of their app?,"5 significantly worse: BHIM 4.0.26, BHIM 4.0.24, Google Pay 331.1.2, Google Pay 351.1.1, Paytm 10.84.5"
+OLS regression (robustness),Cell C1,"Does the crash effect survive without the vague phrase ""not working""?","Yes: -1.10 -> -0.91 stars, still significant"
+Chi-square + Bonferroni,Cell D5,Which complaint themes grew or shrank in the last 4 weeks?,"8 of 33 changes significant; rising: PhonePe App not opening / crashes / updates, BHIM QR scanning & location, BHIM Cashback & rewards, BHIM Slow performance"
+McNemar,Cell X2,Is fine-tuned DistilBERT significantly better than TF-IDF + LogReg on the same test reviews?,"Yes: right on 1,035 reviews TF-IDF gets wrong vs 204 the other way; p = 6.2e-123"

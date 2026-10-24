@@ -1,0 +1,34 @@
+app,theme,earlier_%,last_4_weeks_%,change_pp,complaints_last_4_weeks,p_value,significant
+PhonePe,App not opening / crashes / updates,8.4,16.7,8.3,149,5.903430891076677e-08,True
+BHIM,QR scanning & location,2.1,8.7,6.6,84,3.7770218218539565e-24,True
+BHIM,Cashback & rewards,4.4,10.6,6.2,103,9.64035162295125e-14,True
+Google Pay,General dissatisfaction,41.8,46.4,4.6,252,0.058747598362288565,False
+Paytm,General dissatisfaction,24.4,28.4,3.9,184,0.053969039961465806,False
+BHIM,Slow performance,6.7,10.0,3.3,97,0.0005110349229912866,True
+Paytm,Login & account blocked,3.0,5.9,2.8,38,0.00173618618506776,False
+Paytm,Cashback & rewards,8.1,10.8,2.7,70,0.04464727335465319,False
+BHIM,"Ads, notifications & add-ons",0.8,3.0,2.2,29,2.7433679890105532e-08,True
+BHIM,General dissatisfaction,14.3,16.4,2.1,159,0.10200557604321901,False
+Paytm,Failed / pending payments,9.5,11.4,1.9,74,0.19283474215774057,False
+BHIM,App not opening / crashes / updates,7.8,9.6,1.8,93,0.07077294065886074,False
+Paytm,Customer support,2.6,4.2,1.5,27,0.07102737680454621,False
+Google Pay,UPI Lite & UPI PIN,3.5,5.0,1.5,27,0.12330227207446119,False
+PhonePe,AutoPay / mandates,0.7,2.2,1.5,20,0.007912825066474007,False
+Paytm,"Ads, notifications & add-ons",4.7,6.0,1.3,39,0.2174642367378449,False
+Google Pay,Failed / pending payments,15.7,16.9,1.3,92,0.5111685209480492,False
+PhonePe,Failed / pending payments,12.0,12.9,0.9,115,0.5943761843011734,False
+BHIM,Failed / pending payments,8.2,9.1,0.9,88,0.4171621171669354,False
+BHIM,UPI Lite & UPI PIN,2.5,3.3,0.9,32,0.16669337462965722,False
+PhonePe,UPI Lite & UPI PIN,3.5,4.4,0.9,39,0.36713554125056846,False
+PhonePe,Cashback & rewards,3.6,4.4,0.8,39,0.43225175494823076,False
+BHIM,Security / device-integrity blocks,3.9,3.8,-0.1,37,0.998019953767537,False
+Google Pay,Cashback & rewards,7.4,7.4,-0.1,40,1.0,False
+BHIM,Login & account blocked,4.1,3.0,-1.1,29,0.12903203936855237,False
+PhonePe,Customer support,16.6,15.4,-1.3,137,0.48794790089205997,False
+PhonePe,"Ads, notifications & add-ons",5.0,3.5,-1.5,31,0.139890735793363,False
+PhonePe,Fees & charges,4.8,3.1,-1.6,28,0.09382091679753886,False
+Google Pay,App not opening / crashes / updates,11.2,7.2,-4.0,39,0.007294309589398402,False
+PhonePe,General dissatisfaction,35.0,30.5,-4.5,272,0.04376231122875927,False
+Paytm,Security / device-integrity blocks,24.6,16.8,-7.8,109,5.258162021443759e-05,True
+Paytm,App not opening / crashes / updates,16.1,7.1,-9.0,46,1.734377755154942e-08,True
+BHIM,"Registration, OTP & SIM verification",35.7,20.5,-15.2,198,1.6912390448327314e-19,True
