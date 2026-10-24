@@ -1,4 +1,0 @@
-model,topics,coherence_npmi,diversity
-LDA (k=15),15,0.124,0.76
-LDA (k=40),40,0.096,0.738
-BERTopic (40 topics),40,0.168,0.545
