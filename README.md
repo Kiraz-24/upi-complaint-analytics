@@ -8,6 +8,8 @@ An end-to-end business text-analytics project on user reviews of BHIM, Google Pa
 
 Capstone project for *24INFS7101 NLP and Text Analytics in Business*.
 
+**Live dashboard:** [https://upi-complaint-analytics.streamlit.app](https://upi-complaint-analytics.streamlit.app)
+
 ---
 
 ## Contents
@@ -36,7 +38,7 @@ Capstone project for *24INFS7101 NLP and Text Analytics in Business*.
 | Feature engineering | [03 · Feature engineering](notebooks/03_feature_engineering.ipynb) | Labels, stratified split, TF-IDF, VADER and metadata features |
 | Exploratory text analysis | [04 · Exploratory text analysis](notebooks/04_exploratory_text_analysis.ipynb) | Ratings, length, trends, distinctive words, word clouds |
 | Model development | [05 · Sentiment models](notebooks/05_model_development_sentiment.ipynb), [06 · Topic models](notebooks/06_model_development_topics.ipynb), [07 · Business impact and statistics](notebooks/07_business_impact_and_statistics.ipynb) | Fine-tuned DistilBERT, BERTopic vs LDA, regression and hypothesis tests |
-| Visualization | [08 · Visualization and dashboard](notebooks/08_visualization_and_dashboard.ipynb), [`dashboard/`](dashboard), [`reports/figures/`](reports/figures) | 17 figures and a 9-view interactive dashboard |
+| Visualization | [08 · Visualization and dashboard](notebooks/08_visualization_and_dashboard.ipynb), [`dashboard/`](dashboard), [`reports/figures/`](reports/figures) | 15 charts, one interactive heatmap and a 9-view interactive dashboard |
 | Business recommendations | [09 · Recommendations, limitations, future work](notebooks/09_recommendations_limitations_future_work.ipynb) | One measured action per app |
 | Limitations | [09](notebooks/09_recommendations_limitations_future_work.ipynb) | Self-selection, association vs causation, language coverage |
 | Future work | [09](notebooks/09_recommendations_limitations_future_work.ipynb) | Automation, multilingual models, causal tests, more sources |
@@ -112,7 +114,7 @@ Public Google Play Store reviews (India, English interface), collected until eve
 
 Nine views for a product team: Overview, Trends, Complaint themes, Fix priorities (with a "what if we fixed it" calculator), Releases (with a live release investigator), Emerging topics, Company replies, Models & tests, and a Review explorer with CSV download.
 
-Live version: *link added after deployment*
+Live version: [https://upi-complaint-analytics.streamlit.app](https://upi-complaint-analytics.streamlit.app)
 
 Run it locally:
 
@@ -157,6 +159,7 @@ Packages: [`requirements.txt`](requirements.txt).
 | Dataset description | [docs/dataset_description.md](docs/dataset_description.md) |
 | Python notebooks | [notebooks/](notebooks) |
 | Source code | [src/](src), [dashboard/](dashboard) |
+| Live dashboard | [https://upi-complaint-analytics.streamlit.app](https://upi-complaint-analytics.streamlit.app) |
 | Final report | docs/ (to be added) |
 | Presentation | docs/ (to be added) |
 
